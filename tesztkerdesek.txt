@@ -1,6 +1,6 @@
-Név:
-Szak:
-Neptun azonosító:
+Név:Fábián Kristóf
+Szak:MI távoktatás
+Neptun azonosító:G7X4VM
 
 Kérdés 1:
 Melyik az alábbiak közül NEM része a Scrum keretrendszernek?
@@ -10,7 +10,7 @@ B. Daily Standup
 C. Gantt diagram
 D. Scrum Master
 
-Válasz:
+Válasz:C
 
 Kérdés 2:
 Mi a Scrum Sprint jellemző időtartama?
@@ -20,7 +20,7 @@ B. 1-4 hét
 C. 6 hónap
 D. 1 év
 
-Válasz:
+Válasz:A
 
 Kérdés 3:
 Melyik az alábbiak közül NEM egy Agile módszertan?
@@ -30,7 +30,7 @@ B. Waterfall
 C. Scrum
 D. Lean
 
-Válasz:
+Válasz:B
 
 Kérdés 4:
 Mi a jelentése a REST rövidítésnek?
@@ -40,7 +40,7 @@ B. Representational State Transfer
 C. Requested State Transfer
 D. Responsive System Transfer
 
-Válasz:
+Válasz:B
 
 Kérdés 5:
 Melyik git parancs szolgál egy új fejlesztési ág létrehozására?
@@ -50,7 +50,7 @@ B. pull
 C. push
 D. branch
 
-Válasz:
+Válasz:D
 
 Kérdés 6:
 Milyen parancsot használhatunk a git commit-ek történetének megtekintésére?
@@ -60,7 +60,7 @@ B. git log
 C. git show
 D. git checkout
 
-Válasz:
+Válasz:B
 
 Kérdés 7:
 Melyik HTTP metódust használjuk általában egy erőforrás törlésére egy RESTful API-ban?
@@ -70,7 +70,7 @@ B. POST
 C. DELETE
 D. PUT
 
-Válasz:
+Válasz:C
 
 Kérdés 8:
 Melyik szerepel az Agile Manifestoban az alábbiak közül?
@@ -80,7 +80,7 @@ B. A dokumentáció előnyben részesítése a működő szoftverrel szemben
 C. Együttműködés az ügyféllel szerződés tárgyalása helyett
 D. Egyértelműen meghatározott projektszabályok a változások helyett
 
-Válasz:
+Válasz:C
 
 Kérdés 9:
 Mi az a Spring Boot?
@@ -90,7 +90,7 @@ B. Egy adatbázis-kezelő rendszer
 C. Egy keretrendszer, amely egyszerűsíti a Spring alkalmazások létrehozását és konfigurálását
 D. Egy verziókezelő rendszer
 
-Válasz:
+Válasz:C
 
 Kérdés 10:
 Melyik HTTP státusz kód jellemzően a sikeres GET kérések válasza a REST API-kban?
@@ -100,4 +100,4 @@ B. 200 OK
 C. 204 No Content
 D. 404 Not Found
 
-Válasz:
+Válasz:B
